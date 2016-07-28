@@ -1,3 +1,3 @@
 #KvMQTT
-A MQTT Broker
+A MQTT Broker, implement by golang!
 
